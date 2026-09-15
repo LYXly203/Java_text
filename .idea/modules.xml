@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2026_9/2026_9.iml" filepath="$PROJECT_DIR$/2026_9/2026_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_text.iml" filepath="$PROJECT_DIR$/.idea/Java_text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_9/bankSystem/bankSystem.iml" filepath="$PROJECT_DIR$/2026_9/bankSystem/bankSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_9/phone/phone.iml" filepath="$PROJECT_DIR$/2026_9/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_9/text/text.iml" filepath="$PROJECT_DIR$/2026_9/text/text.iml" />
     </modules>
   </component>
 </project>
