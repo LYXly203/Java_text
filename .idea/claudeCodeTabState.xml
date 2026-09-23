@@ -7,14 +7,27 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="5f988c72-de2f-4f0d-891f-5e56552aec99" />
+              <option name="sessionId" value="2fcfffcb-376f-492a-a482-c68b70441a0f" />
               <option name="cwd" value="C:\Users\梁艺馨\IdeaProjects\Java_text" />
               <option name="model" value="claude-opus-4-8[1m]" />
+              <option name="permissionMode" value="bypassPermissions" />
+              <option name="reasoningEffort" value="max" />
+            </TabSessionState>
+          </value>
+        </entry>
+        <entry key="1">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="665d0331-4efa-4575-90ec-356d398088ab" />
+              <option name="cwd" value="C:\Users\梁艺馨\IdeaProjects\Java_text" />
+              <option name="model" value="claude-sonnet-4-6[1m]" />
               <option name="permissionMode" value="bypassPermissions" />
             </TabSessionState>
           </value>
         </entry>
       </map>
     </option>
+    <option name="tabCount" value="2" />
   </component>
 </project>
