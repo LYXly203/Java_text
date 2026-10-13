@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2026_10/2026_10.iml" filepath="$PROJECT_DIR$/2026_10/2026_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/2026_9.iml" filepath="$PROJECT_DIR$/2026_9/2026_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/Animal/Animal.iml" filepath="$PROJECT_DIR$/2026_9/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_10/Company/Company.iml" filepath="$PROJECT_DIR$/2026_10/Company/Company.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_text.iml" filepath="$PROJECT_DIR$/.idea/Java_text.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/PersonCarSystem1/PersonCarSystem1.iml" filepath="$PROJECT_DIR$/2026_9/PersonCarSystem1/PersonCarSystem1.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/PrintGraph/PrintGraph.iml" filepath="$PROJECT_DIR$/2026_9/PrintGraph/PrintGraph.iml" />
@@ -11,7 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/2026_9/bankSystem/bankSystem.iml" filepath="$PROJECT_DIR$/2026_9/bankSystem/bankSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/Animal/mycode/mycode.iml" filepath="$PROJECT_DIR$/2026_9/Animal/mycode/mycode.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/phone/phone.iml" filepath="$PROJECT_DIR$/2026_9/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_10/text2/student/student.iml" filepath="$PROJECT_DIR$/2026_10/text2/student/student.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026_9/text/text.iml" filepath="$PROJECT_DIR$/2026_9/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026_10/text2/text2.iml" filepath="$PROJECT_DIR$/2026_10/text2/text2.iml" />
     </modules>
   </component>
 </project>
